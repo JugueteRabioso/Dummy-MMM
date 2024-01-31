@@ -12,6 +12,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+#Esta es una nota de Rodri
+
+
+
+
+
+
 """Plotting functions pre and post model fitting."""
 
 import functools
